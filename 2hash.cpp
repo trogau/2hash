@@ -1,5 +1,5 @@
 /*
-*  2hash v0.1 - Program to create md5 and sha1 hashes in parallel
+*  2hash v0.1.1 - Program to create md5 and sha1 hashes in parallel
 *  http://www.crossrealm.com/2hash
 *  2004-05-13
 *
